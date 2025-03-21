@@ -1,3 +1,4 @@
+import Faq from "@/sections/faq";
 import Features from "@/sections/features";
 import Hero from "@/sections/hero";
 import Integrations from "@/sections/integrations";
@@ -15,6 +16,7 @@ const Home = () => {
       <Introduction />
       <Features />
       <Integrations />
+      <Faq />
     </>
   );
 };
