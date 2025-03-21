@@ -1,8 +1,6 @@
 # Layers
 
-
-## Live Demo
-Check out the live demo:[Layers](https://axiomatic-saas.vercel.app/)
+Check out the live demo: [Layers](https://design-layers.vercel.app/)
 
 ## Getting Started
 
