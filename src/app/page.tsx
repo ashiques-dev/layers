@@ -1,3 +1,4 @@
+import CallToAction from "@/sections/call-to-action";
 import Faq from "@/sections/faq";
 import Features from "@/sections/features";
 import Hero from "@/sections/hero";
@@ -17,6 +18,7 @@ const Home = () => {
       <Features />
       <Integrations />
       <Faq />
+      <CallToAction />
     </>
   );
 };
