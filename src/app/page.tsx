@@ -1,6 +1,7 @@
 import CallToAction from "@/sections/call-to-action";
 import Faq from "@/sections/faq";
 import Features from "@/sections/features";
+import Footer from "@/sections/footer";
 import Hero from "@/sections/hero";
 import Integrations from "@/sections/integrations";
 import Introduction from "@/sections/introduction";
@@ -19,6 +20,7 @@ const Home = () => {
       <Integrations />
       <Faq />
       <CallToAction />
+      <Footer />
     </>
   );
 };

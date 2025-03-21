@@ -92,8 +92,15 @@ const Features = () => {
                   className="bg-gradient-to-r from-purple-400 to-pink-400 text-transparent bg-clip-text relative
                 "
                 >
-                  <video src="/gif-incredible.mp4 " autoPlay loop muted playsInline className="absolute bottom-full left-1/2 -translate-x-1/2 rounded-2xl shadow-xl  opacity-0 pointer-events-none group-hover:opacity-100  transition duration-500"></video>
                   <span className="">incredible</span>
+                  <video
+                    src="/gif-incredible.mp4 "
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="absolute bottom-full left-1/2 -translate-x-1/2 rounded-2xl shadow-xl  opacity-0 pointer-events-none group-hover:opacity-100  transition duration-500"
+                  ></video>
                 </span>{" "}
                 growth this year
               </p>
